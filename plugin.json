@@ -1,0 +1,18 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "descrybe-legal-engine",
+  "displayName": "Descrybe Legal Engine",
+  "description": "Research U.S. case law, statutes, regulations, and court rules. Find authorities, check quotations against opinions, and see how later courts cite a case.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Descrybe",
+    "url": "https://descrybe.com"
+  },
+  "homepage": "https://descrybe.com/user-guide/open-connector",
+  "logo": "assets/descrybe.png",
+  "suggestedPrompts": [
+    "Use Descrybe to look up 347 U.S. 483. Give me the case name, court, and year, with a link to the opinion.",
+    "Use Descrybe to check whether Brown v. Board of Education, 347 U.S. 483, contains the sentence “Separate educational facilities are inherently unequal.” Show the matching passage.",
+    "Use Descrybe to find the California statute on returning a residential security deposit. Cite the section and link to the source."
+  ]
+}
