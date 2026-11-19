@@ -3,12 +3,13 @@
   "name": "descrybe-legal-engine",
   "displayName": "Descrybe Legal Engine",
   "description": "Research U.S. case law, statutes, regulations, and court rules. Find authorities, check quotations against opinions, and see how later courts cite a case.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Descrybe",
     "url": "https://descrybe.com"
   },
   "homepage": "https://descrybe.com/user-guide/open-connector",
+  "license": "Apache-2.0",
   "logo": "assets/descrybe.png",
   "suggestedPrompts": [
     "Use Descrybe to look up 347 U.S. 483. Give me the case name, court, and year, with a link to the opinion.",

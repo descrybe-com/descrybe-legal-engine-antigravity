@@ -22,3 +22,9 @@ Open the cited sources to check the text, context, and applicability to your que
 ## Help and privacy
 
 For sign-in or access questions, contact [Descrybe support](mailto:support@descrybe.com). See the [Descrybe connector guide](https://descrybe.com/user-guide/open-connector) and [Privacy Policy](https://descrybe.com/legal/privacy).
+
+## License
+
+Copyright 2026 Descrybe, LLC.
+
+The files in this repository are licensed under the [Apache License 2.0](LICENSE). The license covers this plugin’s configuration and documentation only. It does not grant trademark rights in the Descrybe name or logo, and your use of Descrybe Legal Engine is governed by the [Descrybe Terms](https://descrybe.com/legal/terms).
